@@ -1,3 +1,6 @@
+# link do colab
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/13OirFXHow9lX3QTAGlWTHPM_T50Lr420)
+
 # Análise de Chamados de Service Desk com Python
 ##  Contexto
 Este projeto simula a análise de dados de uma operação de Service Desk, com o objetivo de identificar padrões de incidentes, avaliar prioridades e otimizar o processo de atendimento com base em dados.
