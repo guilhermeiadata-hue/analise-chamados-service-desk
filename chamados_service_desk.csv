@@ -1,0 +1,11 @@
+id_chamado,categoria,prioridade,tempo_resolucao_horas,status
+1,Acesso,Alta,2,Resolvido
+2,Sistema,Média,5,Resolvido
+3,Rede,Alta,3,Resolvido
+4,Acesso,Baixa,8,Resolvido
+5,Sistema,Média,6,Resolvido
+6,Rede,Alta,2,Resolvido
+7,Sistema,Baixa,7,Resolvido
+8,Acesso,Alta,1,Resolvido
+9,Rede,Média,4,Resolvido
+10,Sistema,Alta,3,Resolvido
